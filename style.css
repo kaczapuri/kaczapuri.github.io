@@ -1,0 +1,20 @@
+body {
+    background-image: url('photo-1539183204366-63a0589187ab.jfif');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    text-transform: uppercase;
+    border: 5px solid rgb(154, 204, 219);
+    background-color: rgb(5, 30, 63);
+    padding: 10px;
+}
+
+h1:hover {
+    transform: scale(1.1);
+}
+
+.page-header {
+    margin-top: 20%;
+}
